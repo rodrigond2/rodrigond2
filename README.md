@@ -14,7 +14,7 @@
 ##
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigond2&show_icons=true&theme=dark&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigond2&layout=compact&langs_count=7&theme=dark"/>
+<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigond2&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   
